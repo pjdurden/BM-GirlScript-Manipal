@@ -14,6 +14,8 @@ Week 1
 
 Assignment 1 - Solve the assignment questions provided.They will be available on the whatsapp group and syllabus topics for assignment are 2.1,2.2,2.3 
 
+
+
 Week 2
 1. Meetings and Time Management
    1.1 The Importance of Meetings
@@ -27,6 +29,8 @@ Week 2
 
 Assignment 2 - Submit a case study of failure of a technological startup and discuss reasons     like poor management and uncontrolled deficits.(You can take any startup for the case study)
  
+
+
 Week 3
 1. Managing Cash Flows
    1.1 The Importance of Managing Cash Flow
@@ -37,7 +41,11 @@ Week 3
    2.3 Application of Derivatives
    2.4 Exponential and Logarithmic Functions
    2.5 Integrals
+
+
 Assignment 3 - Solve the assignment questions provided.They will be available on the whatsapp group and syllabus topics for assignment are 1.1,1.2,2.1,2.2,2.3,2.4,2.5 .
+
+
 
 
 Week 4
@@ -48,7 +56,11 @@ Week 4
 2. Statistics for Business and Economics
    2.1 Graphical and Numerical descriptive techniques
    2.2 Probability, random and discrete probability distributions
+
+
 Assignment 4 - Devise a program to calculate mean variance and other properties of a given probability distribution table. Upload your program on your respective github id’s and provide me with the link to review it.
+
+
 
 Week 5
 1.Introduction to Business ethics and critical thinking
@@ -58,7 +70,11 @@ Week 5
 2. Supply chain Management
     2.1  Models for Supply Chain Decision-Making
     2.2  Supply chain management (SCM) as a centralized system for the management of the 		 flow of goods and services
+
+
 Assignment 5 - Make a informatory project on Supply chain management and business ethics.
+
+
 
 Project - Make a program(language of your choice) on the management software of a company. It should have various aspects such as-
 1.Facility to save employee data and retrieve it.
@@ -68,6 +84,7 @@ Project - Make a program(language of your choice) on the management software of 
 5.It should save some information about companies vision,short term goals etc in text file along with the employee’s data.
 6.It should be a simple program with a top down menu. I’ll provide you with the information regarding how to save file and open files and retrieve data from it.
 7.Upload your program on your respective github id’s and provide me with the link.
+
 
 Reference - https://www.udemy.com/courses/business/management/
                     https://www.coursera.org/learn/strategic-business-management-macroeconomics
