@@ -11,6 +11,7 @@ Week 1
    2.1 Power of motivation and how to motivate your team
    2.2 The Importance of Recruiting
    2.3 How to Recruit a World Class Team
+
 Assignment 1 - Solve the assignment questions provided.They will be available on the whatsapp group and syllabus topics for assignment are 2.1,2.2,2.3 
 
 Week 2
@@ -23,6 +24,7 @@ Week 2
     2.1 How to control costs in any business
     2.2 The Importance of consistently increasing sales
     2.3 How to consistently increase sales in any business
+
 Assignment 2 - Submit a case study of failure of a technological startup and discuss reasons     like poor management and uncontrolled deficits.(You can take any startup for the case study)
  
 Week 3
