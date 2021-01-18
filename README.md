@@ -1,8 +1,7 @@
 # BM-GirlScript-Manipal
-Business Management GirlScript Manipal
 Mentor - PRAJJWAL CHITTORI
 
-BUSINESS MANAGEMENT COURSE STRUCTURE
+COURSE STRUCTURE
 
 
 Week 1
